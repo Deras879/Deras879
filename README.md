@@ -29,8 +29,8 @@ También manejo el idioma ingles de manera que puedo tener una conversación coh
 
 <br/>
 
-<div align="center">
   ## Información Rápida
+<div align="center">
 
   <table>
     <tr>
