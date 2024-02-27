@@ -34,14 +34,13 @@ También manejo el idioma ingles de manera que puedo tener una conversación coh
 
   <table>
     <tr>
-      <td valign="top" width="50%">
+      <td valign="top" align="center"> <!-- Añade 'align="center"' aquí para centrar el contenido -->
         🌱Actualmente estoy aprendiendo TypeScript, para expandir mis conocimientos
         <br/><br/>
         ❓ Preguntamente cualquier cosa sobre JS y el desarrollo back-end
         <br/><br/>
         ⚡ Dato curioso: Tengo el modo nocturno activo todo el tiempo
       </td>
-      <td valign="top" width="50%"></td>
     </tr>
   </table>
 </div>
