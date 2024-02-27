@@ -44,8 +44,6 @@ También manejo el idioma ingles de manera que puedo tener una conversación coh
 
 
 
-</td></tr></table>  
-
 <br/>  
 
 
@@ -90,15 +88,3 @@ También manejo el idioma ingles de manera que puedo tener una conversación coh
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
