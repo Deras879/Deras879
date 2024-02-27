@@ -28,7 +28,7 @@ También manejo el idioma ingles de manera que puedo tener una conversación coh
 <br/>  
 
 
-## Rapidfire  
+## Información Rápida  
 <table><tr><td valign="top" width="50%">
 
 🌱Actualmente estoy aprendiendo TypeScript, para expandir mis conocimientos  
