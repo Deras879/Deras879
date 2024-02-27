@@ -27,26 +27,26 @@ También manejo el idioma ingles de manera que puedo tener una conversación coh
 
 <br/>  
 
+<br/>
 
-## Información Rápida  
-<div align="center">  
-<table><tr><td valign="top" width="50%">
+<div align="center">
+  ## Información Rápida
 
-🌱Actualmente estoy aprendiendo TypeScript, para expandir mis conocimientos  
-  
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        🌱Actualmente estoy aprendiendo TypeScript, para expandir mis conocimientos
+        <br/><br/>
+        ❓ Preguntamente cualquier cosa sobre JS y el desarrollo back-end
+        <br/><br/>
+        ⚡ Dato curioso: Tengo el modo nocturno activo todo el tiempo
+      </td>
+      <td valign="top" width="50%"></td>
+    </tr>
+  </table>
+</div>
 
-❓ Preguntamente cualquier cosa sobre JS y el desarrollo back-end  
-  
-
-⚡ Dato curioso: Tengo el modo nocturno activo todo el tiempo   
-
-
-</td><td valign="top" width="50%">
-</div> 
-
-
-
-<br/>  
+<br/>
 
 <br/>  
 
