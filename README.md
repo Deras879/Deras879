@@ -29,6 +29,7 @@ También manejo el idioma ingles de manera que puedo tener una conversación coh
 
 
 ## Información Rápida  
+<div align="center">  
 <table><tr><td valign="top" width="50%">
 
 🌱Actualmente estoy aprendiendo TypeScript, para expandir mis conocimientos  
@@ -41,6 +42,7 @@ También manejo el idioma ingles de manera que puedo tener una conversación coh
 
 
 </td><td valign="top" width="50%">
+</div> 
 
 
 
